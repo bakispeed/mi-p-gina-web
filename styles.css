@@ -3,6 +3,10 @@ body {
     font-family: 'Segoe UI', sans-serif;
     background: #fff8f0;
     color: #3a2c2a;
+    background-image: url('descarga.png'); 
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
   }
   
   header {
